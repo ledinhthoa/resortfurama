@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2476e674-fe0f-4048-a03c-ad117cd4dae8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="386eb891-7607-4423-9cd0-27ed18fdde75" name="xamppserver" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1QfzRjcDNCpZLD0Xsw0nmkn1Wir" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../login" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="serverxampp" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="xamppserver" start_url="/quan li resort furama">
+      <method v="2">
+        <option name="FtpUpload" enabled="true">
+          <server_id>4a3a6201-f359-4c78-8e4f-33f07794db93</server_id>
+          <server_name>createxampp</server_name>
+          <group_name />
+          <path>C:\xampp\htdocs\quan li resort furama</path>
+        </option>
+        <option name="FtpUpload" enabled="true">
+          <server_id>4a3a6201-f359-4c78-8e4f-33f07794db93</server_id>
+          <server_name>createxampp</server_name>
+          <group_name />
+          <path>C:\xampp\htdocs\quan li resort furama</path>
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2476e674-fe0f-4048-a03c-ad117cd4dae8" name="Default Changelist" comment="" />
+      <created>1568176433364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568176433364</updated>
+      <workItem from="1568176435807" duration="144000" />
+      <workItem from="1568184277000" duration="237000" />
+      <workItem from="1568187535948" duration="563000" />
+      <workItem from="1568188525768" duration="3177000" />
+      <workItem from="1568252080297" duration="865000" />
+      <workItem from="1568262771078" duration="2335000" />
+      <workItem from="1568270577238" duration="6378000" />
+      <workItem from="1568297610691" duration="4712000" />
+      <workItem from="1568338493692" duration="7457000" />
+      <workItem from="1568347406873" duration="934000" />
+      <workItem from="1568361545191" duration="1096000" />
+      <workItem from="1568367108850" duration="1679000" />
+      <workItem from="1568443147187" duration="3813000" />
+      <workItem from="1568452102009" duration="1509000" />
+      <workItem from="1568563591565" duration="1427000" />
+      <workItem from="1568597362283" duration="10689000" />
+      <workItem from="1568616411893" duration="6719000" />
+      <workItem from="1568623231812" duration="6223000" />
+      <workItem from="1568645061142" duration="6246000" />
+      <workItem from="1568683298990" duration="6812000" />
+      <workItem from="1568704077981" duration="9360000" />
+      <workItem from="1568740980465" duration="696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
